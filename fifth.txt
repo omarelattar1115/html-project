@@ -1,0 +1,42 @@
+<html dir="rtl">
+<head>
+<title>Fifth Generation</title>
+</head>
+<body bgcolor="#008000">
+<p class="MsoNormal" style="text-align: center; line-height: normal; direction: ltr; unicode-bidi: embed">&nbsp;</p>
+<p class="MsoNormal" style="text-align: center; line-height: normal; direction: ltr; unicode-bidi: embed">
+<font color="#FFFF00" size="7">
+<span style="font-weight: 700">Fifth Generation</span></font></p>
+<p class="MsoNormal" style="text-align: center; line-height: normal; direction: ltr; unicode-bidi: embed">&nbsp;</p>
+<p class="MsoNormal" style="text-align: center; line-height: normal; direction: ltr; unicode-bidi: embed">
+<img border="0" src="AI-in-Computer-Vision-Market.jpg" width="640" height="337"></p>
+<p class="MsoNormal" style="text-align: justify; text-indent: -18.0pt; line-height: normal; direction: ltr; unicode-bidi: embed; margin-left: 38.4pt; margin-right: 2.4pt; margin-top: 6.0pt; margin-bottom: 7.2pt">
+<span style="font-size: 12.0pt; font-family: Arial,sans-serif; color: #FFFF00; font-weight:700">- The 
+period 2010 to till date and beyond, roughly considered as the period of fifth 
+generation of computers.</span></p>
+<p class="MsoNormal" style="text-align: justify; text-indent: -18.0pt; line-height: normal; direction: ltr; unicode-bidi: embed; margin-left: 38.4pt; margin-right: 2.4pt; margin-top: 6.0pt; margin-bottom: 7.2pt">
+<span style="font-size: 12.0pt; font-family: Arial,sans-serif; color: #FFFF00; font-weight:700">- By 
+the time, the computer generation was being categorized on the basis of hardware 
+only, but the fifth generation technology also included software.</span></p>
+<p class="MsoNormal" style="text-align: justify; text-indent: -18.0pt; line-height: normal; direction: ltr; unicode-bidi: embed; margin-left: 38.4pt; margin-right: 2.4pt; margin-top: 6.0pt; margin-bottom: 7.2pt">
+<span style="font-size: 12.0pt; font-family: Arial,sans-serif; color: #FFFF00; font-weight:700">- The 
+computers of the fifth generation had high capability and large memory capacity.</span></p>
+<p class="MsoNormal" style="text-align: justify; text-indent: -18.0pt; line-height: normal; direction: ltr; unicode-bidi: embed; margin-left: 38.4pt; margin-right: 2.4pt; margin-top: 6.0pt; margin-bottom: 7.2pt">
+<span style="font-size: 12.0pt; font-family: Arial,sans-serif; color: #FFFF00; font-weight:700">
+-
+Working with computers of this generation was fast and multiple tasks could be 
+performed simultaneously.</span></p>
+<p class="MsoNormal" style="text-align: justify; text-indent: -18.0pt; line-height: normal; direction: ltr; unicode-bidi: embed; margin-left: 38.4pt; margin-right: 2.4pt; margin-top: 6.0pt; margin-bottom: 7.2pt">
+<span style="font-size: 12.0pt; font-family: Arial,sans-serif; color: #FFFF00; font-weight:700">
+-
+Some of the popular advanced technologies of the fifth generation include 
+Artificial intelligence, Quantum computation, Nanotechnology, Parallel 
+processing, etc.</span></p>
+<p class="MsoNormal" style="text-align: justify; text-indent: -18.0pt; line-height: normal; direction: ltr; unicode-bidi: embed; margin-left: 38.4pt; margin-right: 2.4pt; margin-top: 6.0pt; margin-bottom: 7.2pt">&nbsp;</p>
+<p class="MsoNormal" style="text-align: center; text-indent: -18.0pt; line-height: normal; direction: ltr; unicode-bidi: embed; margin-left: 38.4pt; margin-right: 2.4pt; margin-top: 6.0pt; margin-bottom: 7.2pt">
+<b><font face="Arial,sans-serif" size="5" color="#FF0000"><a href="index.htm">
+<font color="#FFFFFF"><span style="text-decoration: none">Home</span></font></a></font></b></p>
+
+</body>
+
+</html>
